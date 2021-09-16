@@ -1,2 +1,2 @@
-allow-branch = ["master"]
+allow-branch = ["main"]
 disable-publish = true
