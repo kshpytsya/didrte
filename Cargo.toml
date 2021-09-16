@@ -1,5 +1,5 @@
 [package]
-name = "didrte-rs"
+name = "didrte"
 version = "0.1.2-alpha.0"
 edition = "2018"
 authors = ["Kyrylo Shpytsya <kshpitsa@gmail.com>"]
